@@ -34,3 +34,4 @@ a = input("a:")
 b = input("b:") 
 
 print("长度:",len(a)+len(b))
+# print
